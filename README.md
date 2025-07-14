@@ -1,0 +1,1 @@
+# authelia-error-page
